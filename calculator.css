@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+section{
+    background-color: #0F0F0F;
+    width: 30%;
+    margin: auto;
+}
+
+table{
+    width: 100%;
+    
+}
+
+thead{
+    height: 250px;
+}
+
+tbody{
+    background-color: #191717;
+}
+
+td{
+    font-size: larger;
+    text-align: center;
+    padding: 20px 0;
+    width: 25%;
+}
+
+.signs{
+    color: #3876BF;
+}
+
+.numbers{
+    color: #ffffff;
+}
+
+.equalto{
+    background-color: #3876BF;
+    border-radius: 10px;
+}
